@@ -13,9 +13,10 @@ PRINT 2
 <img width="672" height="348" alt="image" src="https://github.com/user-attachments/assets/b8231c75-4fa6-4d8e-b5ad-17c9838b0bdc" />
 
 TABELA
-Associação NAT |	Socket antes do NAT (local)  |	Socket após o NAT (público)  |	  Destino
-      1        |	     192.168.68.112:56353    |      189.34.167.216:8476  	     |     52.252.23.178:443
-      2   	   |       192.168.68.112:64840    |	    189.34.167.216:8476	     |     52.252.23.178:443
+| Associação NAT |   Socket antes do NAT (local) | Socket após o NAT (público) |       Destino        |
+|----------------|-------------------------------|-----------------------------|----------------------|
+|       1        |     192.168.68.112:56353      |     189.34.167.216:8476     |   52.252.23.178:443  |
+|       2        |     192.168.68.112:64840      |     189.34.167.216:8476     |   52.252.23.178:443  |
 
 
 **Atividade 2 - DNAT/Port Forwarding no Emulador TP-Link AC1750:**
